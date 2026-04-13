@@ -1,0 +1,6 @@
+# Copy this file to .env.local for local development
+# In Vercel: Settings → Environment Variables → add CLAUDE_API_KEY
+
+CLAUDE_API_KEY=your_claude_api_key_here
+
+# Get your key at: https://console.anthropic.com
